@@ -10,7 +10,7 @@ El objetivo de este proyecto es aplicar todo lo aprendido en HTML, CSS, Astro y 
 
 ## 👁️ Vista previa del proyecto
 <img src="public/assets/preview.jpeg" width=1200>
-<img src="public/assets/previewmobile.jpeg" width=1200>
+<img src="public/assets/previewmobile.jpeg" width=600>
 
 
 
