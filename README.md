@@ -2,7 +2,7 @@
 
 # Proyecto 13 - Footer Phone (Responsive)
 
-Maquetación de un ejemplar de footer para una pagina de venta de moviles en HTML, CSS, Astro y Tailwind
+Maquetación de un ejemplar de footer para una pagina de venta de servicios web en HTML, CSS, Astro y Tailwind
 
 ## 🎯 Objetivo del Proyecto
 
